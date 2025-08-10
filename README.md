@@ -59,4 +59,4 @@ This project is licensed under the **MIT License**.
 
 **Stephen Thangaraj A**  
 📧 Email: stephenthangaraj14@gmail.com  
-🌐 Portfolio: [Netlify Deployment](https://stephenthangaraj.netlify.app/)
+🌐 Portfolio: https://stephenthangaraj.netlify.app
