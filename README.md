@@ -1,27 +1,63 @@
-🌟 Stephen Thangaraj's Portfolio
-Welcome to my portfolio repository! This project showcases my skills, experience, and the projects I've worked on as a professional developer. It's built using Next.js and React.js and is hosted on Netlify.
-Check it out live here: Stephen Thangaraj's Portfolio
+# 💼 Stephen Thangaraj — Developer Portfolio
 
-🚀 Features
-⦁	Responsive Design: Optimized for all screen sizes, from mobile to desktop.
-⦁	Dynamic Content: Easy to update projects, skills, and experience.
-⦁	Performance Focused: Built with Next.js for fast loading and server-side rendering.
-⦁	SEO Optimized: Implemented best practices for search engine visibility.
-⦁	Modern UI/UX: Designed to provide a clean, professional experience.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR_BADGE_ID/deploy-status)](https://app.netlify.com/sites/stephenthangaraj-portfolio/deploys)
 
-🛠️ Technologies Used
-⦁	Framework: Next.js
-⦁	Frontend: React.js
-⦁	Styling: CSS Modules / TailwindCSS (specify what you're using)
-⦁	Deployment: Netlify
-⦁	Icons: React Icons
+**Live Demo:** [Netlify Deployment](https://stephenthangaraj.netlify.app/) 
 
-📄 License
-This project is licensed under the MIT License.
+---
 
-📬 Contact
-Have any questions or want to collaborate? Feel free to reach out!
-⦁	Name: Stephen Thangaraj A
-⦁	Portfolio: https://stephenthangaraj-portfolio.netlify.app/
-⦁	Email: stephenthangaraj14@gmail.com
-⦁	LinkedIn: https://www.linkedin.com/in/stephenthangaraj/
+## 📌 Overview
+
+This is the source code for **Stephen Thangaraj’s Personal Portfolio Website** — built to showcase skills, projects, and contact information in a modern, responsive, and SEO-friendly way.  
+It is developed using **Next.js** with **Tailwind CSS** for styling, optimized for performance, and deployed on **Netlify**.
+
+---
+
+## 🚀 Tech Stack
+
+- **Framework:** [Next.js](https://nextjs.org/) (App Router)
+- **UI Styling:** [Tailwind CSS](https://tailwindcss.com/)
+- **Deployment:** [Netlify](https://www.netlify.com/) *(Netlify Next.js runtime configured)*
+- **Email Service:** [Nodemailer](https://nodemailer.com/) (via serverless function)
+- **Version Control:** Git & GitHub
+
+---
+
+## ✨ Features
+
+- 📱 Fully responsive design for desktop, tablet, and mobile  
+- ⚡ Fast and SEO-friendly pages with Next.js prerendering  
+- 🎨 Clean and modern UI using Tailwind CSS  
+- 📬 Functional contact form (requires proper serverless configuration for Nodemailer)  
+- 🖼️ Optimized images and assets  
+- 🔒 Environment variable support for sensitive configuration
+
+---
+
+## 📂 Project Structure
+
+`
+Portfolio/
+├── app/ # App Router pages & layouts
+├── components/ # Reusable UI components
+├── public/ # Static files (images, icons, etc.)
+├── styles/ # Tailwind and global styles
+├── utils/ # Utility functions
+├── netlify.toml # Netlify build configuration
+├── package.json # Project metadata & scripts
+└── README.md # Project documentation
+`
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+## 👨‍💻 Author
+
+**Stephen Thangaraj A**  
+📧 Email: stephenthangaraj14@gmail.com  
+🌐 Portfolio: [Netlify Deployment](https://stephenthangaraj.netlify.app/)
