@@ -29,3 +29,6 @@ export default function RootLayout({ children }) {
     </html>
   );
 }
+import dynamic from "next/dynamic";
+
+const MyComponent = dynamic(() => import("../components/MyComponent"), { ssr: false });
