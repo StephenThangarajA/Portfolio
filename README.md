@@ -1,6 +1,5 @@
 # 💼 Stephen Thangaraj — Developer Portfolio
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR_BADGE_ID/deploy-status)](https://app.netlify.com/sites/stephenthangaraj-portfolio/deploys)
 
 **Live Demo:** [Netlify Deployment](https://stephenthangaraj.netlify.app/) 
 
