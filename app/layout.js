@@ -24,11 +24,8 @@ export default function RootLayout({ children }) {
           {children}
           <ScrollToTop />
         </main>
-      </body>
-      <GoogleTagManager gtmId={process.env.NEXT_PUBLIC_GTM} />
-    </html>
-  );
+        </body>
+  <GoogleTagManager gtmId={process.env.NEXT_PUBLIC_GTM} />
+</html>
+);
 }
-import dynamic from "next/dynamic";
-
-const MyComponent = dynamic(() => import("../components/MyComponent"), { ssr: false });
